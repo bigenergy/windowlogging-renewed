@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:glass_panes",
+    "minecraft:iron_bars",
+    { "id": "quark:gold_bars", "required": false },
+    { "id": "quark:red_crystal_pane", "required": false },
+    { "id": "quark:orange_crystal_pane", "required": false },
+    { "id": "quark:yellow_crystal_pane", "required": false },
+    { "id": "quark:green_crystal_pane", "required": false },
+    { "id": "quark:blue_crystal_pane", "required": false },
+    { "id": "quark:indigo_crystal_pane", "required": false },
+    { "id": "quark:violet_crystal_pane", "required": false },
+    { "id": "quark:white_crystal_pane", "required": false },
+    { "id": "quark:black_crystal_pane", "required": false }
+  ]
+}

@@ -1,0 +1,27 @@
+modLoader = "javafml"
+license = "MIT license"
+loaderVersion = "[43,)"
+#issueTrackerURL=""
+
+[[mods]]
+modId = "windowlogging"
+version = "0.0.9"
+displayName = "Windowlogging"
+#updateJSONURL=""
+authors = "Simibubi, Grimmauld, Big_Energy"
+description = '''
+Windowlogging, ported from Create 1.14.4'''
+
+[[dependencies.windowlogging]]
+modId = "forge"
+mandatory = true
+versionRange = "[43,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.windowlogging]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"
